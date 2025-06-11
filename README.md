@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AsteroidCoder(Osama)
-- 👀 I’m interested in Data and sustainable data-driven solution
-- 🌱 I’m currently learning Python, SQL
+- 👋 Hi, I’m Usama Azhar
+- 👀 I’m interested in learning Machine Learning Algorithms, How They Work and How to Document
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DS Projects
 - 📫 Reach me on (usamaazhar261@gmail.com)
 
